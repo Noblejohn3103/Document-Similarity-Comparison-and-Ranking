@@ -1,0 +1,13 @@
+Name: Priya Singh
+Role: Graduate Engineer Trainee
+Email: priya.singh@gmail.com
+Total Experience: 0 years (Fresher)
+
+Skills:
+- Programming Languages: Java, Python
+- Core Concepts: Data Structures, Algorithms, Object-Oriented Programming
+- Databases: SQL
+- Tools: Git
+
+Certifications:
+- None

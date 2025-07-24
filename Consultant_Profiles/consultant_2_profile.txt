@@ -1,0 +1,12 @@
+Name: Ben Carter
+Role: Data Science & Analytics Lead
+Email: ben.carter@gmail.com
+Total Experience: 6 years
+
+Skills:
+- Programming Languages: Python, SQL
+- Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+- Visualization Tools: Tableau
+
+Certifications:
+- TensorFlow Developer Certificate

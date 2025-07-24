@@ -1,0 +1,11 @@
+Name: Emily White
+Role: Junior Software Engineer
+Email: emily.white@gmail.com
+Total Experience: 1 year
+
+Skills:
+- Programming Languages: Java, SQL
+- Tools: Git
+
+Certifications:
+- None

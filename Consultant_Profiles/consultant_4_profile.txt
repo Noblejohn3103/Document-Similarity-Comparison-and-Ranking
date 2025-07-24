@@ -1,0 +1,13 @@
+Name: David Rodriguez
+Role: Agile Project Manager
+Email: david.rodriguez@gmail.com
+Total Experience: 10 years
+
+Skills:
+- Methodologies: Agile, Scrum, SDLC
+- Project Management Tools: JIRA, Confluence
+- Core Competencies: Risk Management, Budgeting
+
+Certifications:
+- Certified Scrum Master (CSM)
+- Project Management Professional (PMP)

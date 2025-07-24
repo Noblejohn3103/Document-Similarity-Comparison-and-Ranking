@@ -1,0 +1,13 @@
+Name: Chloe Davis
+Role: Full-Stack Developer & Team Lead
+Email: chloe.davis@gmail.com
+Total Experience: 7 years
+
+Skills:
+- Programming Languages: Python, Java
+- Frameworks & Libraries: Django
+- Methodologies: Agile
+- Tools: JIRA, Git
+
+Certifications:
+- None
