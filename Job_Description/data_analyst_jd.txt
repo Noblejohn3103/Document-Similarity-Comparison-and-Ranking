@@ -1,0 +1,12 @@
+Job Title: Data Scientist
+
+Experience Required: 3+ years
+
+We are looking for a Data Scientist to join our analytics team. You will be responsible for building predictive models and generating insights from complex datasets. Requires at least 3 years of hands-on experience.
+
+Required Skills:
+- Expert-level Python programming skills.
+- Proficiency with data science libraries such as Pandas, NumPy, and Scikit-learn.
+- Experience with deep learning frameworks like TensorFlow or PyTorch.
+- Strong knowledge of SQL for data extraction and manipulation.
+- Excellent communication skills to present findings to business stakeholders.

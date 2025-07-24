@@ -1,0 +1,11 @@
+Job Title: Graduate Engineer Trainee
+
+We are looking for bright and enthusiastic recent graduates to join our team as Graduate Engineer Trainees. This is an entry-level position designed to provide training and mentorship.
+
+Experience Required: 0-1 years (Freshers are encouraged to apply)
+
+Required Skills:
+- Strong foundation in at least one programming language (e.g., Java, Python).
+- Good understanding of Data Structures and Algorithms.
+- Basic knowledge of SQL and databases.
+- Excellent problem-solving skills and a willingness to learn.

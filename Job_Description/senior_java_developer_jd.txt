@@ -1,0 +1,12 @@
+Job Title: Senior Java Developer
+
+Experience Required: 5+ years
+
+We are seeking a Senior Java Developer with over 5 years of experience in building high-performing, scalable, enterprise-grade applications. The ideal candidate will be a key player in the design and development of microservices.
+
+Required Skills:
+- Strong proficiency in Java and the Spring Boot framework.
+- Hands-on experience with building and consuming REST APIs.
+- Solid experience with cloud platforms, preferably AWS.
+- Familiarity with containerization technologies like Docker and Kubernetes.
+- Experience working in an Agile development environment.
